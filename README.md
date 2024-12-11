@@ -32,8 +32,5 @@ Once you're chatting with the chatbot, follow these simple steps:
 
 5. **Share with Friends**: Easily share the chatbot's recommendations with your food-loving friends.
 
-## License 📜
-
-This project is licensed under the MIT License.
 
 Thank you for choosing our Restaurant Recommender Chatbot. We hope it enhances your culinary adventures and brings delicious joy to your life. If you have any questions or suggestions, please don't hesitate to reach out. Happy dining! 🤖🥂
